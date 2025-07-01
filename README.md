@@ -1,6 +1,7 @@
 # Pothole Image Segmentation with YOLOv8
 
 A deep learning solution for automated pothole detection and segmentation using YOLOv8, enabling precise road condition assessment and infrastructure monitoring.
+<img width="1212" alt="Screenshot 2025-07-01 at 3 03 41 PM" src="https://github.com/user-attachments/assets/a0d31550-bfe8-4c43-b459-9ce047f2fbca" />
 
 ## Project Overview
 [**Project Development Log**](https://github.com/gbadrain/Pothole-Image-Segmentation-with-YOLOv8/blob/main/PROJECT_LOG.md)
