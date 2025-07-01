@@ -104,20 +104,6 @@ yolo predict model=runs/segment/train2/weights/best.pt \
              save_txt=True
 ```
 
-#### Real-time Video Processing
-
-```python
-from ultralytics import YOLO
-
-model = YOLO('runs/segment/train2/weights/best.pt')
-
-# Process video stream
-results = model.track(source='road_video.mp4', 
-                     show=True, 
-                     save=True,
-                     tracker='bytetrack.yaml')
-```
-
 ## Training Your Own Model
 
 ### Dataset Preparation
