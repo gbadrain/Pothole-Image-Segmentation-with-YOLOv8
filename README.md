@@ -169,7 +169,8 @@ print(f"mAP50-95: {metrics.box.map}")
 
 ## Performance Metrics
 [**Training Shots**](https://github.com/gbadrain/Pothole-Image-Segmentation-with-YOLOv8/blob/main/POT_SHOT_EPOCH.pdf)
-[**Training Analysis](https://github.com/gbadrain/Pothole-Image-Segmentation-with-YOLOv8/blob/main/runs/segment/train2/train2_analysis.pdf)
+
+[**Training Analysis**](https://github.com/gbadrain/Pothole-Image-Segmentation-with-YOLOv8/blob/main/runs/segment/train2/train2_analysis.pdf)
 
 Our trained model achieves the following performance on the validation set:
 
